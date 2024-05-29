@@ -1,6 +1,12 @@
-.img_1 {
-    height: 31px;
-    width: 102px;
+.logo {
+   width:315px;
+    height:33px;
+    font-size:14px;
+  
+    background: linear-gradient(#F7DEA1, #F0C14D);
+    border: 0.5px solid #aaaaaa;
+    border-radius:3px;
+    margin-top: 10px;
   }
   
   .extra-margin {
